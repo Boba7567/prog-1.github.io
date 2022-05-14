@@ -204,6 +204,15 @@ footer {
   clear: left;
 }
 
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
@@ -268,14 +277,6 @@ footer {
 
   .message-wrapper .btn {
     width: 100%;
-  }
-  
-  .material-symbols-outlined {
-    font-variation-settings:
-    'FILL' 0,
-    'wght' 400,
-    'GRAD' 0,
-    'opsz' 48
   }
   
 }
